@@ -26,7 +26,7 @@ int main()
         default:
             printf("Not a correct number");
     }
-
+    getch();
 
 
 
